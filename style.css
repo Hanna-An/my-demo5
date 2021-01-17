@@ -1,0 +1,65 @@
+.main {
+    background: lightgrey;
+   }
+   h1 {
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+   }
+   .description {
+     text-align: center;
+     font-weight: normal;
+     font-size: 20px;
+   }
+   .figure {
+     margin:0 10px;
+   }
+   figcaption {
+     padding: 20px 0;
+     text-align: center;
+     font-size: 18px;
+   }
+   .img-div {
+     background: white;
+     width: 97%;
+     margin: auto;
+   }
+   img {
+     max-width: 100%;
+     margin: auto;
+     display: block;
+   }
+   h3 {
+     text-align: center;
+     font-weight: bold;
+     font-size: 20px;
+     margin: 40px;
+   }
+   ul {
+     margin: auto;
+     width: 50%;
+   }
+   li {
+     font-size: 20px;
+     margin-bottom: 20px;
+   }
+   .date {
+     font-weight: bold;
+   }
+   .merits {
+     font-size: 20px;
+     font-style: italic;
+     width: 50%;
+     margin: auto;
+   }
+   .singh {
+     padding: 20px 0 40px 0;
+   }
+   .link {
+     font-weight: bold;
+     font-size: 23px;
+     text-align: center;
+     padding: 0 0 40px 0px;
+   }
+   
+   
